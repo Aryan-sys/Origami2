@@ -1,0 +1,25 @@
+
+h1 {
+    background-color: indigo;
+     color : goldenrod;
+    
+font-family: fantasy
+
+}
+.mainContent{
+    border-color: palevioletred;
+    border-collapse: collapse;
+    background-color: palevioletred;
+    text-decoration-color: greenyellow;
+  cursor:zoom-in;
+animation: ease-in;
+    display: flex;
+    flex-grow : 4;
+ flex-wrap: wrap;
+   text-align: left;
+   align-items:center;
+   flex-direction: row
+   
+}
+
+ 
